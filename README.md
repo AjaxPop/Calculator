@@ -1,5 +1,6 @@
 # Calculator
 A simple calculator made with Vue.js
+![calc](https://user-images.githubusercontent.com/54447040/96944804-e6414d80-14a9-11eb-85e5-bf663141dc25.PNG)
 
 ## Project setup
 ```
